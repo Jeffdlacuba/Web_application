@@ -22,4 +22,5 @@ Esta aplicación Streamlit permite a los usuarios explorar los datos de ventas d
 - Obtén información sobre las tendencias de precios en función de las lecturas del odómetro.
 - Es sencilla e interactiva, no requiere conocimientos de codificación para su uso.
 
-
+Este es el link al cual se puede acceder libremente para visualizar lo descrito aquí:
+ https://web-application-sikm.onrender.com
